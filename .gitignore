@@ -1,2 +1,5 @@
 Data/
 _to_review_for_deletion/
+__pycache__/
+*.pyc
+.idea/
